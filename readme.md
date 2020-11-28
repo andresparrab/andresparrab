@@ -38,8 +38,6 @@
 <br />
 <br />
 
- <h3 align="center"> <img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Code with me! :star2:</h3>
-
 <hr/>
 
 <div align="center">
