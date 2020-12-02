@@ -1,6 +1,6 @@
  <h1 align="center"> I'm a Student </h1>
 
-<p align="center"> - 🔭 I just finished my first course: [/javascript-fullstack!][course]! </p>
+<p align="center"> - 🔭 I just finished my first education in Javascript: [Javascript-fullstack!][Molndal Yrkeshögskola]! </p>
 <p align="center"> - 🌱 I’m currently learning everything 🤣 </p>
 <p align="center"> - 👯 I’m looking to collaborate with other content creators </p>
 <p align="center"> - 🥅 2020 Goals: Contribute more to Open Source projects </p>
