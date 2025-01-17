@@ -1,4 +1,4 @@
- <h1 align="center"> I'm a Student </h1>
+ <h1 align="center"> I'm a System Developer </h1>
 
 <p align="center"> - 🔭 I just finished my first education in Javascript: [Javascript-fullstack!][Molndal Yrkeshögskola]! </p>
 <p align="center"> - 🌱 I’m currently learning everything 🤣 </p>
